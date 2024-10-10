@@ -1,0 +1,11 @@
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\bin\Debug\Lab03-03.exe.config
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\bin\Debug\Lab03-03.exe
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\bin\Debug\Lab03-03.pdb
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03-03.csproj.AssemblyReference.cache
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03_03.Form1.resources
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03_03.Form2.resources
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03_03.Properties.Resources.resources
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03-03.csproj.GenerateResource.cache
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03-03.csproj.CoreCompileInputs.cache
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03-03.exe
+C:\Users\manhh\source\repos\2280618866_PhamManhHung\Lab03-03\obj\Debug\Lab03-03.pdb
